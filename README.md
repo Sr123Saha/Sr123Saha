@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/name.svg" alt="Sr123Saha" />
+</h1>
+<!-- ник -->
+        <div align="center">
+    <img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/hello.gif" width="900" height="700"/>
+        </div>
+<h1 align="center">
+  <img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/hello.svg" alt="" />
+</h1>
+        <picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Sr123Saha&show_icons=true&theme=synthwave"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Sr123Saha&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sr123Saha&show_icons=true" />
+        </picture>
 
-<!--
-**Sr123Saha/Sr123Saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
