@@ -1,5 +1,6 @@
 
-  <img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/name.svg" alt="Sr123Saha" />
+  <h1 align="center"><img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/name.svg" alt="Sr123Saha" />
+</h1>
   <div align="center">
     <img src="https://github.com/Sr123Saha/Sr123Saha/blob/main/hello.gif" width="900" height="700"/>
         </div>
